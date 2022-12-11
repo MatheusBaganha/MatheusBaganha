@@ -13,8 +13,6 @@
   <img align="center" alt="Matheus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Matheus-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Matheus-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="Matheus-Gulp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" />
-  <img align="center" alt="Matheus-Eslint" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" />
   <img align="center" alt="Matheus-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="right" alt="Matheus-pic" height="250" style="border-radius:50px;" src="https://cdn.picrew.me/shareImg/org/202212/11534_TE9QSheN.png">
   <br>
