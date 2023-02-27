@@ -1,4 +1,9 @@
-## Olá! Eu sou o Matheus Baganha, desenvolvedor Front-End.
+## Olá! Eu sou o Matheus Baganha, Desenvolvedor Front-End.
+
+
+Construo interfaces para front-end web com React. No momento, estou estudando back-end com Python.
+
+<br>
 
 <div align="center">
   <a href="https://github.com/MatheusBaganha">
