@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Matheus Baganha, Desenvolvedor Front-End.
 
-Construo interfaces para front-end web usando React. No momento, estou aprendendo back-end com Python.
+Construo interfaces para front-end web usando React. No momento, estou aprendendo back-end com Java.
 
 <div>
   <a href="https://github.com/MatheusBaganha">
@@ -14,7 +14,7 @@ Construo interfaces para front-end web usando React. No momento, estou aprendend
   <img align="center" alt="Matheus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Matheus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Matheus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Matheus-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 
 ##
