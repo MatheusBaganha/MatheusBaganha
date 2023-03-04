@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Matheus Baganha, Desenvolvedor Front-End.
 
-Construo interfaces para front-end web usando React.
+Construo interfaces para front-end web usando React. No momento, estou aprendo C#.
 
 <div>
   <a href="https://github.com/MatheusBaganha">
@@ -15,6 +15,7 @@ Construo interfaces para front-end web usando React.
   <img align="center" alt="Matheus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Matheus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Matheus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
 ##
