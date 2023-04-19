@@ -1,6 +1,6 @@
-## Olá Mundo! Eu sou o Matheus Baganha, Desenvolvedor Front-End.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=8c579e&center=false&vCenter=false&width=1000&lines=Hello%2C+World!+My+name+is+Matheus+Baganha.;I'm+19+years+old!;I'm+a+Front-End+Developer.;)](https://github.com/MatheusBaganha)
 
-Construo interfaces para front-end web usando React. 
+##
 
 <div>
   <a href="https://github.com/MatheusBaganha">
