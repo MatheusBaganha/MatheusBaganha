@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=4c7dab&center=false&vCenter=false&width=1000&lines=Hello%2C+World!+My+name+is+Matheus+Baganha.;I'm+19+years+old!;I'm+a+Front-End+Developer.;)](https://github.com/MatheusBaganha)
 
 
-![](https://github.com/MatheusBaganha/MatheusBaganha/blob/master/img/city-2.gif)
+![](https://github.com/MatheusBaganha/MatheusBaganha/blob/master/img/city.gif)
 
 ##
 
