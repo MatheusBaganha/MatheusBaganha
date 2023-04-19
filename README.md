@@ -4,8 +4,8 @@
 
 <div>
   <a href="https://github.com/MatheusBaganha">
-  <img height="185em" width="46%"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MatheusBaganha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170em"  width="46%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MatheusBaganha&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="185em" width="48%"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MatheusBaganha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="165em"  width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MatheusBaganha&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div style="display: inline_block"><br>
