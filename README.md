@@ -8,8 +8,8 @@
 
 <div>
   <a href="https://github.com/MatheusBaganha">
-  <img height="185em" width="49%"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MatheusBaganha&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="178em"  width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MatheusBaganha&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="185em" width="49%"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MatheusBaganha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_rank=true"/>
+  <img height="178em"  width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MatheusBaganha&layout=compact&langs_count=7&theme=tokyonight&hide=html"/>
 </div>
 
 <div style="display: inline_block"><br>
