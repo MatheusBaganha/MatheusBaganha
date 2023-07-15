@@ -31,6 +31,5 @@
   <a href="https://wa.me/5511913068951" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
   <a href="https://matheusbaganha.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
  </div>
-  
-![Snake animation](https://github.com/MatheusBaganha/MatheusBaganha/blob/output/github-contribution-grid-snake.svg)
+
   
