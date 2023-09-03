@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=4c7dab&center=false&vCenter=false&width=1000&lines=Hello%2C+World!+My+name+is+Matheus+Baganha.;I'm+19+years+old!;I'm+a+Front-End+Developer.;)](https://github.com/MatheusBaganha)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=4c7dab&center=false&vCenter=false&width=1000&lines=Hello%2C+World!+My+name+is+Matheus+Baganha.;I'm+20+years+old!;I'm+a+Full+Stack+Developer.;)](https://github.com/MatheusBaganha)
 
 <div>
   <img width="100%"  src="https://github.com/MatheusBaganha/MatheusBaganha/blob/master/img/city-1.gif"/>
@@ -16,6 +16,7 @@
   <img align="center" alt="Matheus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Matheus-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Matheus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Matheus-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Matheus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Matheus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Matheus-SCSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
