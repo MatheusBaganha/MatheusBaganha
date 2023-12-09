@@ -23,12 +23,4 @@
   <img align="center" alt="Matheus-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
-##
-
-<div> 
-  <img align="left" alt="Matheus-pic" height="180" style="border-radius:50px;" src="https://github.com/MatheusBaganha/MatheusBaganha/blob/master/img/eu.png?raw=true">
-  <a href="mailto:matheus.baganha1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/matheusbaganha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- </div>
-
   
