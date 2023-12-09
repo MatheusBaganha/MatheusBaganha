@@ -11,8 +11,10 @@
   <img height="185em" width="49%"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MatheusBaganha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_rank=true"/>
   <img height="185em"  width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MatheusBaganha&layout=compact&langs_count=7&theme=tokyonight&hide=html"/>
 </div>
-
-<div style="display: inline_block"><br>
+    
+ ## 
+ 
+<div style="display: inline_block">
   <img align="center" alt="Matheus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Matheus-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Matheus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
