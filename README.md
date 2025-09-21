@@ -7,16 +7,6 @@
 ##
 
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-  <a href="https://github.com/MatheusBaganha">
-    <picture>
-      <source
-        srcset="https://github-readme-stats.vercel.app/api?username=MatheusBaganha&show_icons=true&theme=tokyonight"
-        media="(prefers-color-scheme: dark)"
-      />
-      <img src="https://github-readme-stats.vercel.app/api?username=MatheusBaganha&show_icons=true" />
-    </picture>
-  </a>
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusBaganha&layout=compact&theme=tokyonight" />
 </div>
 
