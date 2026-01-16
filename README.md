@@ -6,7 +6,7 @@
 
 <div align="center">
 
-# Hi, I'm [Matheus Baganha]() 👋
+# Hi, I'm [Matheus Baganha](https://www.linkedin.com/in/matheusbaganha/) 👋
 
 I'm a 22-year-old Full Stack Developer with experience in Angular, .NET (C#), Dapper, Entity Framework, ASP.NET, SQL Server, and Oracle SQL.  
 I work on building scalable web applications, optimizing code performance, modernizing legacy systems, and delivering reliable solutions for production environments.
